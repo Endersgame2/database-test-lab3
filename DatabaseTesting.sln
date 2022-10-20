@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkomaticTest", "ParkomaticTest\ParkomaticTest.csproj", "{55E7B14B-4AD6-4B00-A406-E511C47EA240}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseTesting", "DatabaseTesting\DatabaseTesting.csproj", "{E15307A7-53BE-4E0A-AD56-72649BB98AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E7B14B-4AD6-4B00-A406-E511C47EA240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E7B14B-4AD6-4B00-A406-E511C47EA240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E7B14B-4AD6-4B00-A406-E511C47EA240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E7B14B-4AD6-4B00-A406-E511C47EA240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15307A7-53BE-4E0A-AD56-72649BB98AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15307A7-53BE-4E0A-AD56-72649BB98AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15307A7-53BE-4E0A-AD56-72649BB98AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15307A7-53BE-4E0A-AD56-72649BB98AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C03E0A9-059F-47AB-B697-241AD25B16AE}
+	EndGlobalSection
+EndGlobal
